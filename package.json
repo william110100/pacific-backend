@@ -1,0 +1,26 @@
+{
+  "name": "pacific-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william110100/pacific-backend.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/william110100/pacific-backend/issues"
+  },
+  "homepage": "https://github.com/william110100/pacific-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
